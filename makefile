@@ -1,5 +1,4 @@
-# hex8 makefile
-
+# h8d makefile
 
 # source
 SOURCE = h8d.c
