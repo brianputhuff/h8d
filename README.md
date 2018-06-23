@@ -16,7 +16,8 @@ The program will generate a `dump.txt` file with the output.
 
 Sample of output file:
 
-`...
+```
+...
 0C 01 80 00 CD C2 0C C3     . . . . . . . .
 6C 03 43 4F 4E 47 52 41     l . C O N G R A
 54 55 4C 41 54 49 4F 4E     T U L A T I O N
@@ -51,7 +52,8 @@ D3 BE C9 01 01 00 61 54     . . . . . . a T
 49 4D 45 20 55 50 52 44     I M E   U P R D
 20 20 20 20 54 49 4D 45             T I M E
 30 35 25 35 35 30 35 35     0 5 % 5 5 0 5 53
-...`
+...
+```
 
 Note: this is only a sample of a single section of the total output file.
 
