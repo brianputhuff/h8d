@@ -2,10 +2,10 @@
 
 H8D is a tool that reads from an input file and generates a text dump of the file's byte contents (in hexadecimal notation) along with any visible ASCII artifacts (i.e. text) from that hex data.
 
-### BUILDING
+### Building
 A makefile is included in this repository to compile the executable.
 
-### RUNNING
+### Running
 Run the executable with the name of the file to be read as the first argument.
 
 Example:
