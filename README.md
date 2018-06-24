@@ -1,6 +1,6 @@
 ## H8D (HATED)
 
-H8D is a tool that reads from an input file and generates a text dump of the file's byte contents (in hexadecimal notation) along with visible ASCII artifacts from that hex
+H8D is a tool that reads from an input file and generates a text dump of the file's byte contents (in hexadecimal notation) along with any visible ASCII artifacts (i.e. text) from that hex data.
 
 ### BUILDING
 A makefile is included in this repository to compile the executable.
